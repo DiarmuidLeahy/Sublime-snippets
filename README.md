@@ -4,4 +4,6 @@ Some useful Sublime 2 snippets of commonly used blocks of code for web developem
 
 For windows users, copy these files into C:\Users\ .. \AppData\Roaming\Sublime Text 2\Packages\User\
 
+The snippets can then be used as follows:
+
 ![Comment Snippet Preview](CommentSnippets.gif)
